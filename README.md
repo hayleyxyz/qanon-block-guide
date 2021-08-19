@@ -16,7 +16,7 @@ Click on the File > Open... menu item shown in the image.
 
 ### 3. Navigate and open hosts file
 
-In the pop-up window, change the combo-box on the bottom-right to "All Files (*.*)" as seen in the image below. Then navigate to `C:\Windows\System32\drivers\etc`. Open up the file named "hosts".
+In the pop-up window, change the combo-box on the bottom-right to "All Files (\*.\*)" as seen in the image below. Then navigate to `C:\Windows\System32\drivers\etc`. Open up the file named "hosts".
 
 ![](https://raw.githubusercontent.com/yui-konnu/qanon-block-guide/master/3-select%20file%20type.png)
 
